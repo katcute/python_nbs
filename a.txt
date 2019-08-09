@@ -1,3 +1,4 @@
+# add a simily face here
 import random
 HANGMAN_PICS = ['''
   +---+
